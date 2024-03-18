@@ -3,7 +3,7 @@
 
 <h3 align="center"> Full-Stack Software Engineer. </h3>
 
-I am a software engineer with over 5 years professional experience. I have built consumer, and B2B software, and software developer tools. I am passionate about the use of technology in creating real world solutions. Some technologies I enjoy working with include JavaScript(ReactJS, React Native, VueJS, NodeJS), Python (Django, Flask) and SQL. 
+I am a software engineer with over 5 years of professional experience. I have built consumer, and B2B software, and software developer tools. I am passionate about the use of technology in creating real world solutions. Some technologies I enjoy working with include JavaScript(ReactJS, React Native, VueJS, NodeJS), Python (Django, Flask) and SQL. 
   
 
 ### Skills: 
