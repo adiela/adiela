@@ -1,6 +1,7 @@
-## Hi there 👋, my name is Adiela
 
-#### I am a Full-Stack Software Engineer
+**<h2 align="center"> Hi there 👋. My name is Adiela. </h2>**
+
+<h3 align="center"> Full-Stack Software Engineer. </h3>
 
 I am a software engineer with over 5 years professional experience. I have built consumer, and B2B software, and software developer tools. I am passionate about the use of technology in creating real world solutions. Some technologies I enjoy working with include JavaScript(ReactJS, React Native, VueJS, NodeJS), Python (Django, Flask) and SQL. 
   
@@ -19,8 +20,10 @@ I am a software engineer with over 5 years professional experience. I have built
 
 
 ### Contact
-[email](mailto:adiela.abishua@gmail.com)
-[website](https://adiela.me/)
+- Email: [personal email](mailto:adiela.abishua@gmail.com)
+- Website: [adiela.me](https://adiela.me/)
+
+
 
 
 
