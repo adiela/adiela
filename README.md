@@ -4,27 +4,18 @@
 <h3 align="center"> Full-Stack Software Engineer. </h3>
 
 I am a software engineer with over 5 years of professional experience. I have built consumer, and B2B software, and software developer tools. I am passionate about the use of technology in creating real world solutions. Some technologies I enjoy working with include JavaScript(ReactJS, React Native, VueJS, NodeJS), Python (Django, Flask) and SQL. 
-  
 
-### Skills: 
-* JavaScript
-* React JS
-* React Native
-* Angular
-* Vue
-* Python
-* Django
-* Flask
-* Git
-* SQL
+## My Stack
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,next,nuxt,python,django,flask,git,postgresql,mysql,rabbitmq," alt="JavaScript, TypeScript, React, Vue, Next.js, Nuxt, Python, Django, Flask, Git, PostgreSQL, MySQL, RabbitMq">
+  </a>
+</p>
 
 
 ### Contact
 - Email: [personal email](mailto:adiela.abishua@gmail.com)
 - Website: [adiela.me](https://adiela.me/)
-
-
-
 
 
 
