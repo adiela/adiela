@@ -8,7 +8,7 @@ I am a software engineer with over 5 years of professional experience. I have bu
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,next,nuxt,python,django,flask,git,postgresql,mysql,rabbitmq," alt="JavaScript, TypeScript, React, Vue, Next.js, Nuxt, Python, Django, Flask, Git, PostgreSQL, MySQL, RabbitMq">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,next,nuxt,redux,pinia,nodejs,express,python,django,flask,git,postgresql,mysql,mongodb,dynamodb,rabbitmq,aws" alt="JavaScript, TypeScript, React, Vue, Next.js, Nuxt, Redux, Pinia, NodeJs, ExpressJs, Python, Django, Flask, Git, PostgreSQL, MySQL, Monogo DB, Dynamo Db, RabbitMq, AWS">
   </a>
 </p>
 
